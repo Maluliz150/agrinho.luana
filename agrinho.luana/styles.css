@@ -1,0 +1,12 @@
+:root{
+    --cor-de-fundo: #000000;
+    --branco: #ffffff;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.titulo-principal{
+    background-color: var(--branco);
+}
