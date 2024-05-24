@@ -8,5 +8,12 @@ body{
 }
 
 .titulo-principal{
-    background-color: var(--branco);
+    color: var(--branco);
+    text-align: center;
 }
+
+.gato{
+    width: 20%;
+    margin: 0 750px;
+}
+
