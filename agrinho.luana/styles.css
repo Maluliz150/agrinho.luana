@@ -17,3 +17,15 @@ body{
     margin: 0 750px;
 }
 
+
+.intro-titulo{
+    color: var(--branco);
+}
+
+.intro{
+    color: var(--branco);
+}
+
+.rural{
+    width: 20%;
+}
