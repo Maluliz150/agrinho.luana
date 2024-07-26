@@ -10,6 +10,7 @@ body{
 .titulo-principal{
     color: var(--branco);
     text-align: center;
+    font-size: 28px;
 }
 
 .gato{
@@ -20,12 +21,27 @@ body{
 
 .intro-titulo{
     color: var(--branco);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
 }
 
 .intro{
     color: var(--branco);
+    text-align: center;
 }
 
 .rural{
-    width: 20%;
+    width: 50%;
+    margin: 0 500px;
+}
+
+.parana{
+    color: var(--branco);
+    text-align: center;
+    font-size: 30px;
+}
+
+.parana2{
+    color: var(--branco);
 }
