@@ -14,8 +14,8 @@ body{
 }
 
 .gato{
-    width: 20%;
-    margin: 0 750px;
+    margin: 0 850px;
+    width: 10%;
 }
 
 
@@ -42,6 +42,27 @@ body{
     font-size: 30px;
 }
 
-.parana2{
+.tan{
     color: var(--branco);
+    text-align: center;
+}
+
+.tom{
+    color: var(--branco);
+    text-align: center;
+}
+
+.tri{
+    color: var(--branco);
+    text-align: center;
+}
+
+.trit{
+    color: var(--branco);
+    text-align: center;
+}
+
+.um{
+    color: var(--branco);
+    text-align: center;
 }
